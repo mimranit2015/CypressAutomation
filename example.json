@@ -1,0 +1,19 @@
+[
+  { 
+      "email": "imfive@gmail.com",
+      "password": "test1234"
+  }
+  ,
+  { 
+    "email": "imnine@gmail.com",
+    "password": "test1234"
+  },
+  { 
+    "email": "imten@gmail.com",
+    "password": "test1234"
+  },
+  { 
+    "email": "invaliduser@gmail.com",
+    "password": "abc"
+  }
+  ]
